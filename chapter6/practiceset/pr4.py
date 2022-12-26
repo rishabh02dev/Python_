@@ -1,0 +1,7 @@
+username = input("enter your username\n: ")
+
+length_username = len(username)
+if(length_username<10):
+    print("less than 10 characters")
+else:
+    print("more than 10 characters")
