@@ -1,7 +1,7 @@
 greeting = "Good Morning, "
 #this is just string concadinisation
 print(greeting)
-
+ 
 name = "rishabh"
 print(name[0])
 # name[3] = "d"
