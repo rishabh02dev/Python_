@@ -2,5 +2,5 @@
 
 #name:rishuu
 #author:rishuu
-# license:nahi haii
+# license:nahi haii 
 # location : kashmirr
