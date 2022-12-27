@@ -3,7 +3,7 @@ story = "Once upon a time there was a youtuber named harry who uploaded python c
 # string functions
 #it just returns the length of the string
 print(len(story))
-
+ 
 print(story.endswith("notes"))
 
 print(story.count("a"))
