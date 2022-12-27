@@ -1,0 +1,12 @@
+# sum(n) = sum(n-1) + n
+
+def natural_number_sum(n):
+    if n==1:
+        return 1
+    elif n==0:
+        return 0
+    else:
+        return sum(n-1) + n
+
+f = natural_number_sum(3)
+print(f)
