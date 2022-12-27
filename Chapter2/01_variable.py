@@ -7,7 +7,7 @@ print(a)
 print(b)
 print(c)
 print(d)
-
+ 
 #printing the typeof variables
 print(type(a))
 print(type(b))
