@@ -1,2 +1,2 @@
 a = input("Enter your Name : ")
-print(a)
+print(a) 
