@@ -1,2 +1,2 @@
 name = input("Enter your name\n")
-print(name + " Good Afternoon")
+print(name + " Good Afternoon") 
