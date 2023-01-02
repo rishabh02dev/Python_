@@ -8,7 +8,7 @@ a = 12
 b = 36
 print("The sum of a and b is ", a+b)
 
-# and now solving through 
+# and now solving through  
 # OOPS
 
 # EmployeeName -->Pascal case
