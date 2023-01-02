@@ -1,7 +1,7 @@
 class Remote():
     pass
 
-
+ 
 # player ke functions player class ke andar aur remote ke functions remove class ke andar
 class Player:
     def moveRight(self):
