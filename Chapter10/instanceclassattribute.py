@@ -2,7 +2,7 @@ class Employee:
     compnay = "Google"
     salary = 100
 
-
+ 
 harry = Employee()
 rajni = Employee()
 
