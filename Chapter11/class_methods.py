@@ -6,7 +6,7 @@ class Employee:
     @classmethod
     def changedSalary(cls, sal):
        cls.salary = sal
-
+ 
 e = Employee()
 print(e.salary)
 e.changedSalary(455)
