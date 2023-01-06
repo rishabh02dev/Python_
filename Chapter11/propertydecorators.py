@@ -3,7 +3,7 @@ class Employee:
     salary = 1000
     salarybonus = 1000
     # totalSalary = salary + salarybonus
-
+ 
     @property #this is a setter method
     def totalSalary(self):
         return self.salary + self.salarybonus
