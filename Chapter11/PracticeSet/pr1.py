@@ -18,4 +18,4 @@ v2d = C2dVec(1,3)
 v3d = C3dVec(1,9,7)
 
 print(v2d)
-print(v3d)
+print(v3d) 
